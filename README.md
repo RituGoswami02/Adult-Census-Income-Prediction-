@@ -1,4 +1,4 @@
-# Adult-Census-Income-Prediction-
+# Adult-Census-Income-Prediction
 “End-to-end analytics project on Adult Census Income dataset with Decision Tree classifier, data preprocessing, model evaluation, and feature analysis.”
 
 Table of Content :[ Project Overview , Dataset Description , Technologies Used , Data Preprocessing , Model Used , Model Performance , Feature Importance, Confusion Matrix , Conclusion ]
